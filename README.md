@@ -32,5 +32,7 @@ Además, poseo conocimiento en **Photoshop**, **Premiere Pro** y **Wordpress**
 
 ### Contacto
 [Linkedin](https://www.linkedin.com/in/cesar-yannick-fullstack-developer/)
+
 Correo: caorellana95@gmail.com; cdorellana@uc.cl
+
 Teléfono: +56954546738
