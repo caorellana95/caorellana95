@@ -2,13 +2,12 @@
 
 
 ## ¿Quién soy?
-**Programador _Fullstack_** orientado al diseño ***Front-end*** y creación
-de material visual.
+**Programador _Fullstack_** orientado al diseño ***Front-end***.
 
 Tuve mis primeros pasos en la programación mientras estudiaba periodismo. Al cabo de unos años, me atrajo el interés de aprender nuevas tecnologías para crear nuevas aplicaciones y proyectos.
 
 ## ¿Qué hago?
-Actualmente **sigo aprendiendo otras tecnologías** para poder aplicarlas en próximos proyectos y así avanzar en mi formación como 
+Actualmente sigo **aprendiendo otras tecnologías** para poder aplicarlas en próximos proyectos y así avanzar en mi formación como 
 programador.
 
 ## ¿A dónde me dirijo?
